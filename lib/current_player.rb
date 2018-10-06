@@ -1,4 +1,4 @@
-def turn_count (board[])
+def turn_count (board)
 
   counter=0
   board.each do |element|
@@ -6,7 +6,7 @@ def turn_count (board[])
     if (element=='X' || element=='O')
       counter+=1
     end
-    
+
   end
   puts "#{counter}"
 end
