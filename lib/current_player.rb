@@ -18,3 +18,6 @@ def current_player
 
 
 end
+
+
+turn_count(["X","","O"])
