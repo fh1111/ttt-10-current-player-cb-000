@@ -9,11 +9,12 @@ def turn_count(board)
 
   end
   puts "#{counter}"
+
 end
 
 
 
-def current_player
+def current_player()
 
 
 
