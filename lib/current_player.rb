@@ -21,4 +21,4 @@ def current_player()
 end
 
 
-turn_count(["X","","O"])
+turn_count(["O", " ", " ", " ", "X", " ", " ", " ", "X"])
